@@ -246,7 +246,7 @@ lbl_intro = customtkinter.CTkLabel(open_frame,
 lbl_intro.grid(row=0,columnspan=2,padx=5,pady=5)
 
 lbl_user_field = customtkinter.CTkLabel(open_frame,
-                                        text='User number',
+                                        text='Number of Users',
                                         fg_color='#adacac',
                                         text_color='Red',
                                         justify='left',
@@ -290,10 +290,10 @@ btn_save_xls = customtkinter.CTkButton(open_frame,
 btn_save_xls.grid(row=2,column=1,padx=5,pady=5)
 
 lbl_txt = customtkinter.CTkLabel(open_frame2,
-                                   text='Write a number below to\n'
+                                   text='Write a number below\n'
                                    'to generate multiple\n'
-                                   'speadsheets and press Enter.\n'
-                                   'Then save them.',
+                                   'speadsheets and press Enter\n'
+                                   'to be able to save them.',
                                    fg_color='#adacac',
                                    text_color='Black',
                                    justify='center',
@@ -314,7 +314,7 @@ nb_ss_field = customtkinter.CTkEntry(open_frame2,
 nb_ss_field.grid(row=1,column=1,padx=5, pady=5)
 
 lbl_gen_field = customtkinter.CTkLabel(open_frame2,
-                                        text='File number',
+                                        text='Number of Files',
                                         fg_color='#adacac',
                                         text_color='Red',
                                         justify='left',
