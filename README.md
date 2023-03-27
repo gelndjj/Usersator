@@ -17,7 +17,7 @@ It also saves the result as CSV or XLS file._
 ```
 ### SUMMARY
 Usersator creates a CSV file by defaut inside the folder script and display it on the right side of the window app.<br />
-#####The script will create fake users informations such as :<br />
+##### The script will create fake users informations such as :<br />
 1. First Name<br />
 2. Last Name<br /> 
 3. E-mail<br />
@@ -40,12 +40,12 @@ Beside of that you can also create multiple CSV/XLS files as well as fake users 
 
 ### HOW IT WORKS 
 
-####Generate and Display Datas<br />
+#### Generate and Display Datas<br />
 1. Type a number in the Number of Users field and press Enter to display.<br />
 
 2. The Save as CSV and Save as XLS button open a window where to save the file.<br />
 
-####Generate Multiple Spreadsheets<br />
+#### Generate Multiple Spreadsheets<br />
 1. Type a number in the Number of Users field then do the same in the Number of Files field and press Enter.<br /><br />
 2. Nothing will be shown on the right side of the window.<br /><br />
 3. Once done, the 2 buttons below should be clickable and you'll be able to save all the files.<br /><br />
