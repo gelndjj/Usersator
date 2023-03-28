@@ -1,0 +1,4 @@
+pandas==1.4.4
+customtkinter==5.0.1
+ttkwidgets==0.13.0
+Faker==18.3.0
