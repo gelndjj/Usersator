@@ -1,5 +1,5 @@
 # Usersator
-_Usersator generate fake users informations and display them in the same window.
+_Usersator generates fake users informations and display them in the same window.
 It also saves the result as CSV or XLS file._
 
 ```
